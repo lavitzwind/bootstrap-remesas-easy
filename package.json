@@ -1,0 +1,7 @@
+{
+  "name": "remesas-easy",
+  "version": "1.0.0",
+  "description": "\"remesas para venezuela y otras partes de latinoamerica\"",
+  "main": "index.js",
+  "license": "MIT"
+}
